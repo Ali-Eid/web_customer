@@ -1,4 +1,116 @@
 {
-    "test": "Test"
+    "apiErrorMessage": "Error",
+  "apiFailureMessage": "Sorry, something went wrong!",
+    "no_internet_connection.": "No internet connection",
+    "login_title": "Login To Customer app",
+    "username_label": "Username",
+    "username_placeholder": "Please enter your username",
+    "password_label": "password",
+    "confirm_password_label": "Confirm password",
+    "password_placeholder": "Please enter your password",
+    "confirm_password_placeholder": "Please enter your confirm password",
+    "password_not_match": "Password do not match",
+    "login_button": "Login",
+    "or":"OR",
+    "biometric_login": "Login using biometric",
+    "biometric_auth_prompt": "Please authenticate to login",
+    "new_customer_prompt": "New customer? ",
+    "digital_account_invite": "Open your digital account now",
+    "existing_account_question": "Already have an account with us but not registered on the app? ",
+    "signup_invitation": "Sign up here",
+    "forgot_password_title": "Forgot Password?",
+    "forgot_password": "Forgot Password",
+    "phone_label": "Phone number",
+    "phone_placeholder": "Please enter your phone number",
+    "enter_otp": "Enter your OTP to proceed",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "change_your_password": "Change your password",
+    "gender": "Gender",
+    "nationality": "Nationality",
+    "field_required": "This field is required",
+    "arabic_char_required": "Only Arabic characters are allowed",
+    "english_char_required": "Only English letters are allowed",
+    "number_required": "Only numbers are allowed",
+    "male":"Male", 
+    "female": "Female",
+    "branch":"Branch" ,
+    "validator_captcha":"Enter the code in the image" ,
+    "enter_code":"Enter code" ,
+    "validate_code_captach_length":"Code must be length of ",
+    "code_expired":"Code expired",
+    "invalid_code":"Invalid code",
+    "personal_info_ar": "Personal Information - In Arabic",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "father_name": "Father’s Name",
+    "mother_name": "Mother’s Name",
+    "personal_info_en": "Personal Information - In English",
+    "id_document_data": "Personal Identification Document Data",
+    "birth_date": "Date of Birth",
+    "birth_place": "Place of Birth",
+    "national_id": "National ID Number",
+    "passport_number": "Passport Number",
+    "contact_info": "Contact Information",
+    "phone_number": "Phone Number",
+    "mobile_number": "Mobile Number",
+    "email": "Email",
+    "province": "Province",
+    "address": "Address",
+    "required_attachments": "Required Attachments",
+    "id_image": "ID Card Image",
+    "id_image_back": "ID Card Image - Back Side",
+    "id_image_front": "ID Card Image - Front Side",
+    "work_info": "Work Information",
+    "profession": "Profession",
+    "verification": "Verification",
+    "create_account": "Create Account" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }

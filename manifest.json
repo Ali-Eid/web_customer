@@ -1,6 +1,6 @@
 {
-    "name": "customer_bank",
-    "short_name": "customer_bank",
+    "name": "customer_web",
+    "short_name": "customer_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
